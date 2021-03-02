@@ -4,3 +4,11 @@ h1 {
 	color: white;
 
 }
+
+h2 {
+	color: navy;
+}
+
+img {
+	box-shadow: 2px 2px 2px 2px orange;
+}
