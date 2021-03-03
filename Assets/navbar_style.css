@@ -4,13 +4,20 @@
     padding: 3px;
 }
 
-.navbar li  a {
+.navbar li {
     background: white;
     display: inline-block;
     padding: 20px;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 3px;
+}
+
+
+.navbar li  a {
+    color: black;
+    text-decoration: none;
+
 }
 
 /*.navbar li a {
