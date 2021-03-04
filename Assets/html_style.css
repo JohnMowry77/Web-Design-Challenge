@@ -20,8 +20,16 @@
 	color: white;
 }
 
+h1 {
+  color:red;
+}
+
 h2 {
 	color: navy;
+}
+
+h3 {
+  color: orange;
 }
 
 img {
