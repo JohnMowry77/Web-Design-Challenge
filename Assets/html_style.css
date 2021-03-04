@@ -28,6 +28,20 @@ img {
 	box-shadow: 2px 2px 2px 2px orange;
 }
 
+.box {
+  height: 400px;
+  padding: 20px;
+  color: #fff;
+  background: deepskyblue;
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
+
+
+
+
 /* make changes on the class rather than the elements 
 so that you don't have to repeat yourself.
 */
@@ -37,6 +51,7 @@ so that you don't have to repeat yourself.
 @media (max-width: 600px) {
   .navbar li {
     padding: 5px;
+    font-size:3.5rem;
   }
 /* every article that belongs to the class post, change the article margins to be reduced
 */
