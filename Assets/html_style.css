@@ -14,11 +14,11 @@
 }
 
 .header {
-  height: 200px;
-	font-size: 10px;
-	text-align: left;
+  height: 70px;
+	font-size: 20px;
+	text-align: center;
 	padding: 10px;
-	background-color: navy;
+	background-color: #aaaaaa;
 	color: white;
 }
 
